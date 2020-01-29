@@ -14,5 +14,4 @@ Shopping cat that tracks users shopping items
 
 Follow the image below as a guide
 
-![]('/../shorts/shopping-calculator.png')
-
+![]('![]('https://raw.github.com/victor-ugwueze/project-lists/shorts/shopping-calculator.png')

@@ -14,4 +14,4 @@ Shopping cat that tracks users shopping items
 
 Follow the image below as a guide
 
-![]('./image.png')
+![]('/../shorts')

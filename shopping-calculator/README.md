@@ -14,4 +14,4 @@ Shopping cat that tracks users shopping items
 
 Follow the image below as a guide
 
-![Project Image](https://raw.githubusercontent.com/Victor-Ugwueze/project-lists/shorts/shopping-calculator.png)
+![Project Image](https://raw.githubusercontent.com/Victor-Ugwueze/project-lists/shorts/shopping-calc.png)
